@@ -7,22 +7,11 @@ const swethaJayaprasadRaoEthamukkala = {
   pronouns: "she" | "her" | "hers",
   university: "The University of Manchester",
   course: "BSc (Hons) Computer Science",
-  year: 1,
-  currentlyWorkingOn: ["Machine Learning", "DSA", "Full Stack Web Development", "Finding Hackathons"]
+  year: 2,
+  domainInterests: ["Data Science", "AI Engineering"]
 };
 
 ```
-<hr>
-
-<h3>Extracurriculars</h3>
-<ul style="list-style-position: inside; padding-left: 0;">
-  <li>Consultant @ 180 Degrees Consulting</li>
-  <li>Content Associate @ Rakan Tutor</li>
-  <li>Computer Science UK Personal Statement Mentor @ CollegeLAH</li>
-  <li>Research Officer @ MYFinT (2024-2025)</li>
-  <li>Media and Marketing Executive @ AMISO (2024-2025)</li>
-</ul>
-
 <hr>
 
 <h3>Experience</h3>
