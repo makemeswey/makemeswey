@@ -8,7 +8,7 @@ const swethaJayaprasadRaoEthamukkala = {
   university: "The University of Manchester",
   course: "BSc (Hons) Computer Science",
   year: 2,
-  domainInterests: ["Data Science", "Data Engineering", AI Engineering"]
+  domainInterests: ["Data Science", "Data Engineering", "AI Engineering"]
 };
 
 ```
